@@ -1,0 +1,13 @@
+# Python & Node artifacts
+.venv/
+venv/
+backend/.venv/
+__pycache__/
+*.py[cod]
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+*.log
+.DS_Store
+Thumbs.db
